@@ -2,7 +2,6 @@ title: Daksh's Blog
 author: Daksh
 email: dakshtyagi94@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  I will be writing about my experiences in this blog
 
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
