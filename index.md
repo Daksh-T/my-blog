@@ -1,5 +1,4 @@
 ---
-title: "Daksh's Blog"
+title: "Welcome to my blog"
 ---
-
-Hello there everyone :wave: I am glad you are here and I hope you enjoy reading!
+This is a short blog that I initially decided to create for learning web development. However, I do plan to post short pieces here whenever I get the time. 
