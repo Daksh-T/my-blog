@@ -1,3 +1,3 @@
-# Forever Learniing
+# Forever Learning
 
 Personal blog about my experiences
