@@ -1,3 +1,3 @@
-# Blog Post
+# Forever Learniing
 
-Github Repository hosting my blog
+Personal blog about my experiences
