@@ -5,9 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
 
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-social-network-links:
-  email: "dakshtyagi94@gmail.com"
-  github: Daksh-T
 
 # Add a search button to the navbar
 post_search: true
