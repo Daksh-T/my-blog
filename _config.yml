@@ -7,12 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 social-network-links:
   email: "dakshtyagi94@gmail.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: Daksh-T
-
-# If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
 
 # Add a search button to the navbar
 post_search: true
