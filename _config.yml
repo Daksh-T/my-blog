@@ -7,4 +7,8 @@ description: "A blog that focuses on the joy of discovery and learning"
 github_username:  Daksh-T # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-theme: minima
+remote_theme: jekyll/minima
+#header_pages:
+#  - about.md
+minima:
+  skin: solarized
