@@ -1,3 +1,3 @@
 # Forever Learning
 
-Personal blog about my experiences
+A blog that focuses on the joy of discovery and learning

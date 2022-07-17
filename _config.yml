@@ -1,45 +1,10 @@
-name: Forever Learning
+title: Forever Learning
+author: Daksh
 #email: dakshtyagi94@gmail.com
-description: 'A blog that focuses on the joy of discovery and learning'
-favicon: 'assets/images/favicon.ico'
-
-include: ["_pages"]
-permalink: /:title/
-
+description: "A blog that focuses on the joy of discovery and learning"
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-
-# Add a search button to the navbar
-post_search: true
+github_username:  Daksh-T # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-remote_theme: wowthemesnet/mundana-theme-jekyll
-
-authors:
-    daksh:
-      name:           Daksh
-      site:           https://github.com/Daksh-T
-      avatar:         /assets/images/avatar1.png
-      bio:            "Hi, I am Daksh. I am the author of Forever Learning. I hope you like what you're reading!"
-      email:          daksh@retros.live
-
- 
-# Defaults
-defaults:
-
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: daksh
-      avatar: /assets/images/avatar1.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
-# Exclude the readme, license and other files
-exclude: [README.md, LICENSE, CNAME]
+theme: minima
