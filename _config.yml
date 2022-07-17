@@ -10,4 +10,4 @@ description: > # this means to ignore newlines until "baseurl:"
 post_search: true
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-remote_theme: daattali/beautiful-jekyll
+remote_theme: jekyllt/jasper
