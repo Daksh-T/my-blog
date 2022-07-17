@@ -6,5 +6,5 @@ description: "A blog that focuses on the joy of discovery and learning"
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  Daksh-T # DO NOT include the @ character, or else the build will fail!
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 theme: minima
