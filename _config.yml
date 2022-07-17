@@ -1,7 +1,10 @@
-title: Forever Learning
-author: Daksh
+name: Forever Learning
 #email: dakshtyagi94@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description: 'A blog that focuses on the joy of discovery and learning'
+favicon: 'assets/images/favicon.ico'
+
+include: ["_pages"]
+permalink: /:title/
 
 # social links
 #twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
@@ -10,4 +13,33 @@ description: > # this means to ignore newlines until "baseurl:"
 post_search: true
 
 show_excerpts: true # set to false to remove excerpts on the homepage
-remote_theme: jekyllt/jasper
+remote_theme: wowthemesnet/mundana-theme-jekyll
+
+authors:
+    daksh:
+      name:           Daksh
+      site:           https://github.com/Daksh-T
+      avatar:         /assets/images/avatar1.png
+      bio:            "Hi, I am Daksh. I am the author of Forever Learning. I hope you like what you're reading!"
+      email:          daksh@retros.live
+
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: daksh
+      avatar: /assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Exclude the readme, license and other files
+exclude: [README.md, LICENSE, CNAME]
