@@ -1,1 +1,5 @@
-A personal blog, powered by Jekyll
+---
+layout: page
+list_title: Articles
+---
+A personal blog about the joys of discovering, experiencing and learning

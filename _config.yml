@@ -1,15 +1,10 @@
 title: Forever Learning
 description: "A blog that focuses on the joy of discovery and learning"
-author:
-  name: Daksh
-  email: "me@daksh.page"
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 remote_theme: jekyll/minima
-#header_pages:
-#  - about.md
+header_pages:
+  - all_posts.md
 
 minima:
   skin: solarized
-  social_links:
-    github: Daksh-T
