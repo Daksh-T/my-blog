@@ -13,3 +13,6 @@ minima:
   skin: solarized
   social_links:
     github: Daksh-T
+
+plugins:
+ — jekyll-feed
