@@ -8,5 +8,5 @@ minima:
   skin: solarized
 
 header_pages:
-  - all_posts.markdown
-  - about_me.markdown
+  - all_posts.md
+  - about_me.md
