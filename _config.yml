@@ -4,6 +4,7 @@ show_excerpts: false # set to false to remove excerpts on the homepage
 remote_theme: jekyll/minima
 header_pages:
   - all_posts.md
+  - about_me.md
 
 minima:
   skin: solarized
