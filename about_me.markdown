@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 list_title: About Me
 ---
 Hi! I am Daksh.
