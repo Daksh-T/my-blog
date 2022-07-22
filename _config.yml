@@ -5,6 +5,7 @@ remote_theme: jekyll/minima
 google_analytics: G-KS7JEE3B5J
 header_pages:
   - all_posts.md
+  - about_me.md
 
 minima:
   skin: solarized
