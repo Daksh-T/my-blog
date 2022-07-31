@@ -1,8 +1,8 @@
 title: Forever Learning
 
 show_excerpts: false # set to false to remove excerpts on the homepage
-remote_theme: jekyll/minima
-google_analytics: UA-235301609-1
+remote_theme: minima
+google_analytics: G-KS7JEE3B5J
 
 minima:
   skin: solarized
