@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Storylines"
 date: 2022-07-20
-bitlink: "https://bit.ly/storylines992"
+bitlink: https://bit.ly/storylines992
 ---
 
 How do you come up with a storyline? Let's say you're an author and are writing a book. How do you start with a plot? I have always wondered how this process worked. How do you come up with something interesting to read so consistently, churning out best-sellers after best-seller! If it's a series, then sure: you have an existing story to build upon, but that is not always the case!

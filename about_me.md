@@ -1,8 +1,3 @@
-<style>
-  .footer {
-    display: none;
-  }
-</style>
 ---
 layout: page
 title: About me
