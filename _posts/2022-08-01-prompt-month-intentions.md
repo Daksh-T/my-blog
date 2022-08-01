@@ -1,4 +1,7 @@
-# Calm.com Journal Prompt: What are my intentions for this month?
+---
+title: "Journal Prompt: What are my intentions for this month?"
+date: 2022-08-01
+---
 
 It's the first day of August. How quickly July has passed by and how quickly things seem to be moving. We watched, towards the end of July, nature's fury in the form of floods. Back in our hometown Fujairah, [where](https://www.thenationalnews.com/uae/2022/07/30/ive-never-seen-rain-like-it-uae-residents-return-to-flooded-homes-and-submerged-cars/) [rain hit hard](https://gulfnews.com/uae/uae-emergency-committees-register-flood-hit-residents-assess-damage-in-fujairah-ras-al-khaimah-1.89628761) last weekend and caused heavy damage, things are now starting to return to normal. Almost all of my friends are currently outside the country but from the news we can see the city has started to recover. 
 
