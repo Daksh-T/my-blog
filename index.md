@@ -10,12 +10,5 @@ A blog about new things, ideas, and life.
  ‪
   ‪
  ‪
-‪
 
 [Subscribe](http://tinyletter.com/foreverlearning)
-
-<style>
-  .footer {
-    display: none;
-  }
-</style>
