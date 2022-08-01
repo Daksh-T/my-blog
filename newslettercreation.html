@@ -1,11 +1,29 @@
 ---
 layout: none
 ---
+<body style="background-color: #fdf6e3;">
+<style>
+    a:link {
+      color: #268bd2;
+      text-decoration: none;
+    }
+    
+    a:visited {
+      color: #4683ab;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: #657b83;
+      text-decoration: underline;
+    }
+    </style>
 
 <a href="https://daksh.page"><img src="https://daksh.page/assets/header_small.png"></a>
 
 {% for post in site.posts limit:7 %}
-<h2>{{post.title}}</h2>
-<p>{{post.description}} <a href="{{post.bitlink}}">Read more &raquo;</a></p>
+<h2 style="font-family:Verdana; color: #586e75">{{post.title}}</h2>
+<p style="font-family:'Courier New'; color: #93a1a1">{{post.description}} <a href="{{post.bitlink}}">Read more &raquo;</a></p>
 
 {% endfor %}
+</body>
