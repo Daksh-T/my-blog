@@ -7,6 +7,10 @@ list_title: Articles
 
 A personal blog about new things, ideas, and life.
 
+
+
+[Subscribe](http://tinyletter.com/foreverlearning)
+
 <style>
   .footer {
     display: none;
