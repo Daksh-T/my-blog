@@ -3,6 +3,8 @@ description: Personal blog written by a student
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 remote_theme: jekyll/minima
+
+# Google Analytics
 google_analytics: G-KS7JEE3B5J
 
 minima:
