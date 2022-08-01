@@ -13,6 +13,4 @@ But here's the thing: as I wrote that, I realised how meaningless it is for our 
 
 I mean they're not alone exactly: green goals are more of a fashionable PR stunt for a lot of companies and organizations rather than an actual goal. If it saves them money then they'd go for it but if it costs them too much then the environment is an afterthought. I think I ventured too far from what I intended to write here but it feels really good to put down my thoughts like this. [Calm](https://www.calm.com/app) asked me to write down for 5 minutes using the prompt but since I've started writing I have completely lost my sense of time and I have no idea how long it's been. Definitely more than 5 though. 
 
-I'll definitely try doing this more often now. So well, that makes one thing I intend to do during August: use these journal prompts to write more!
-
-
+I'll definitely try doing this more often now. So well, that makes one thing I intend to do during August: use these journal prompts to write more
