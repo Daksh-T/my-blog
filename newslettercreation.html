@@ -1,0 +1,13 @@
+
+---
+layout: none
+---
+
+<!-- site logo -->
+<a href="https://daksh.page"><img src="https://daksh.page/assets/header_slim.png"></a>
+
+{% for post in site.posts limit:6 %}
+<h2>{{post.title}}</h2>
+<p>{{post.description}} <a href="{{post.bitlink}}">Read more &raquo;</a></p>
+
+{% endfor %}
