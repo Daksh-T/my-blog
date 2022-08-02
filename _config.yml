@@ -1,5 +1,6 @@
 title: Forever Learning
-description: Personal blog written by a student
+description: A blog about new things, ideas, and life.
+url: https://daksh.page
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 remote_theme: jekyll/minima
