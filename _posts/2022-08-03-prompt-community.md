@@ -3,7 +3,7 @@ layout: post
 title: "Prompt: Where do I feel a sense of community?"
 date: 2022-08-03
 bitlink: https://bit.ly/jpromptcommun
-description: "This sounds like a textbook question. In fact, I am pretty sure I answered something like this last year for the MEP (Moral Education) exam but exam answers don't always reflect reality since I cannot write a 1000-word essay in the answer sheet! Anyways, I think we should first start by defining what is a community. According to Oxford Languages, a community is "a group of people living in the same place or having a particular characteristic in common". I think being in a community is not the same thing as 'feeling a sense of community' and I'll tell you..."
+description: "This sounds like a textbook question. In fact, I am pretty sure I answered something like this last year for the MEP (Moral Education) exam but exam answers don't always reflect reality since I cannot write a 1000-word essay in the answer sheet! Anyways, I think we should first start by defining what is a community. According to Oxford Languages, a community is..."
 ---
 
 This sounds like a textbook question. In fact, I am pretty sure I answered something like this last year for the MEP (Moral Education) exam but exam answers don't always reflect reality since I cannot write a 1000-word essay in the answer sheet! Anyways, I think we should first start by defining what is a community. According to Oxford Languages, a community is "a group of people living in the same place or having a particular characteristic in common". I think being in a community is not the same thing as 'feeling a sense of community' and I'll tell you why.
