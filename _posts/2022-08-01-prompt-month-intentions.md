@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Journal Prompt: What are my intentions for this month?"
+title: "Prompt: What are my intentions for this month?"
 date: 2022-08-01
 bitlink: https://bit.ly/journalprompt121
 description: "It's the first day of August. How quickly July has passed by and how quickly things seem to be moving. Our lives truly have accelerated. We watched nature's fury and power towards the end of July: back in our hometown Fujairah, rain hit hard last weekend and caused heavy damage. Though, the city is now returning to normalcy. Almost all of my friends..."

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Journal Prompt: What am I willing to explore more about myself?"
+title: "Prompt: What am I willing to explore more about myself?"
 date: 2022-08-02
 bitlink: https://bit.ly/jpromptexplore
 description: "I'll be honest with you: this is a hard one to answer. Maybe it's not *that* hard to answer if I think of it in my head but when I write it down, it feels... weird. But let's see... willing to explore about myself. I know this will strike off as odd to people who know me but I will explore..."
