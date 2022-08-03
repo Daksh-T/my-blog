@@ -1,3 +1,3 @@
 # Forever Learning
 
-A blog that focuses on the joy of discovery and learning
+GitHub repository hosting a blog that focuses on the joy of discovery and learning
