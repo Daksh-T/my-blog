@@ -14,9 +14,9 @@ Then there's the group in the class that loves having fun when the teacher's gon
 
 There's also the silent group, the people who seem to be in their own world of sorts. These enjoy their own company but when the time comes, they can sometimes surprise you. There are all kinds of people in this group though: there are those who are hard-working and do well in academics and there's also those who aren't very good in academics. I am not undermining them: having read [Quiet](https://www.goodreads.com/book/show/8520610) I know that these people are as good as anyone else, if not better.
 
-Then there's the people in this 'middle group' who aren't *that* quiet but also aren't loud either. They work their way through and get involved in the class whenever they can. As with the silent group, this group also has people across the academic spectrum.
+Then there's the people in this 'middle group' who aren't that quiet but also aren't loud either. They work their way through and get involved in the class whenever they can. As with the silent group, this group also has people across the academic spectrum.
 
-There's also the second 'fun-having' group but this group is more on the fun side. These are the people who play mobile games on a regular basis and make offensive jokes (though I believe that no offense should be taken for jokes, sometimes it just feels a bit *too* much). They are, I would say, what I was 2 years ago (when we were about to leave middle school). Anyway, one of our best academically performing guy comes from here so there's *that*.
+There's also the second 'fun-having' group but this group is more on the fun side. These are the people who play mobile games on a regular basis and make offensive jokes (though I believe that no offense should be taken for jokes, sometimes it just feels a bit *too* much). They are, I would say, what I was 2 years ago (when we were about to leave middle school). Anyway, one of our best academically performing guy comes from here so there's that.
 
 There are also these people who are close to teachers, some for being too good (not really too good academically but close as in talking to the teachers often) and some for being too bad (there are always those).
 
