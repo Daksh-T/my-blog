@@ -26,7 +26,7 @@ As I said earlier, I was basically a nomad in the last few weeks wandering here 
 
 **Me**: Umm I am not sure about that. Come to my group otherwise, you are welcome there too. I think it'd be refreshing for both of us.
 
-**The quiet-but-has-good-reputation-with-teachers guy**: You sure I'm welcome? <The talkative kid> doesn't seem to like me very much.
+**The quiet-but-has-good-reputation-with-teachers guy**: You sure I'm welcome? [The talkative kid] doesn't seem to like me very much.
 
 **Me**: Oh.. I see. Come by though, we'll work something out I suppose.
 
