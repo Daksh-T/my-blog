@@ -1,3 +1,3 @@
 # Forever Learning
 
-GitHub repository hosting a blog that focuses on the joy of discovery and learning
+GitHub repository used to host a blog focused on the joy of discovery and learning. The website is now hosted at the same address but powered by Hashnode.
